@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Usuario1\\.nuget\\packages\\": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario1\\Desktop\\Progamar\\CsharpProjects\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "/workspaces/https---github.com-Jesu436-Project-home/CsharpProjects/TestProject/TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "C:\\Users\\Usuario1\\Desktop\\Progamar\\CsharpProjects\\TestProject\\TestProject.csproj",
-      "packagesPath": "C:\\Users\\Usuario1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario1\\Desktop\\Progamar\\CsharpProjects\\TestProject\\obj\\",
+      "projectPath": "/workspaces/https---github.com-Jesu436-Project-home/CsharpProjects/TestProject/TestProject.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/https---github.com-Jesu436-Project-home/CsharpProjects/TestProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Usuario1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
