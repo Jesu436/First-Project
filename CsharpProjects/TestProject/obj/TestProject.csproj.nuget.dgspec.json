@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/https---github.com-Jesu436-Project-home/CsharpProjects/TestProject/TestProject.csproj": {}
+    "C:\\Users\\Usuario1\\Desktop\\Progamar\\CsharpProjects\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "/workspaces/https---github.com-Jesu436-Project-home/CsharpProjects/TestProject/TestProject.csproj": {
+    "C:\\Users\\Usuario1\\Desktop\\Progamar\\CsharpProjects\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/https---github.com-Jesu436-Project-home/CsharpProjects/TestProject/TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario1\\Desktop\\Progamar\\CsharpProjects\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "/workspaces/https---github.com-Jesu436-Project-home/CsharpProjects/TestProject/TestProject.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/https---github.com-Jesu436-Project-home/CsharpProjects/TestProject/obj/",
+        "projectPath": "C:\\Users\\Usuario1\\Desktop\\Progamar\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "packagesPath": "C:\\Users\\Usuario1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario1\\Desktop\\Progamar\\CsharpProjects\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Usuario1\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
